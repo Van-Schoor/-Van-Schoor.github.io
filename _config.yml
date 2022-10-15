@@ -1,12 +1,12 @@
 # Metadata
-title: "SirRandoo's Purchase List"
+title: "VanSchoor Liste Gift"
 favicon: assets/img/favicon.png
 description: A custom version of Toolkit's item list to support all the latest features of Utils.
 
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'sirrandoo'
+github_username: 'Van-Schoor'
 
 # Item list settings
 #
@@ -28,7 +28,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
