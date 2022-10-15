@@ -1,7 +1,7 @@
 ﻿{
   "traits": [
     {
-      "description": "Timmy apprécie la sensation de liberté ressentie en étant nu. il peut porter des vêtements, mais sera plus heureuPAWN_gender ? x : se : x(se) sans.",
+      "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
       "stats": [
 
       ],
@@ -31,7 +31,7 @@
       "degree": 0
     },
     {
-      "description": "Rien ne rend Timmy plus heureuPAWN_gender ? x : se : x(se) que de faire du mal aux gens, peu importe la vue du sang ou des cadavres. il est deux fois plus susceptible de commencer une bagarre.",
+      "description": "Timmy gets a rush from hurting people, and never minds the sight of blood or death. he is four times as likely to start a social fight as others.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -61,7 +61,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy est une personne exceptionnellement agréable. il n'insulte jamais les autres et a une manière spéciale d'utiliser des mots gentils pour égayer l'humeur de ceux qui l'entourent. il ne juge jamais non plus les gens sur leur apparence. Son agréabilité lui rend également plus susceptible de suivre les opinions dominantes.",
+      "description": "Timmy is an exceptionally agreeable and giving person. he never insults others and will sometimes offer kind words to brighten the moods of those around him. he also never judges people by their appearance. his agreeableness also makes him more likely to conform to prevailing opinions.",
       "stats": [
         "x200% facteur de perte de certitude globale"
       ],
@@ -93,7 +93,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy n'a aucune empathie, la souffrance des autres ne PAWN_gender ? le : la : le/la dérange pas. il demeure indifférenPAWN_gender ? t : te : t(e) quand des gens sont démembrés, abandonnés aux vautours, emprisonnés ou vendus en tant qu'esclaves – à moins que ça ne PAWN_gender ? le : la : le/la pas concerne directement. il ne reçoit également aucun bonus provenant d'interactions sociales.",
+      "description": "Timmy has no empathy. The suffering of others doesn't bother him at all. he doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects him. he also feels no mood boost from socializing.",
       "stats": [
         "Morbide meditation focus type allowed.",
         "x50% facteur de perte de certitude globale"
@@ -125,7 +125,7 @@
       "degree": 0
     },
     {
-      "description": "On a toujours dit à Timmy que manger de la chair humaine était terrible et immoral. Mais un jour, il y a longtemps, il a essayé… et il a aimé…",
+      "description": "Timmy was taught that eating human meat is wrong and horrible. But one time, long ago, he tried it... and he liked it.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -155,7 +155,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy dit toujours ce qu'il pense, tout spécialement si cela l'énerve ! En général, les gens apprécient moyennement…",
+      "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
         "x50% facteur de perte de certitude globale"
       ],
@@ -185,7 +185,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy réfléchit trop pour son propre bien. il apprendra bien plus vite que tout le monde, mais peut s'avérer être un peu excentrique.",
+      "description": "Timmy is too smart for his own good. he learns everything much faster than everyone, but can be quite eccentric.",
       "stats": [
         "+75% facteur d'apprentissage global",
         "+12% seuil de crise de nerfs",
@@ -227,7 +227,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy aime le combat au corps-à-corps. Sa précision est améliorée au contact, et il n'appréciera pas si on lui demande de porter une arme à distance.",
+      "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
       "stats": [
         "Frénésie de tir inspiration disabled.",
         "+4 mêlée",
@@ -267,7 +267,7 @@
       "degree": 0
     },
     {
-      "description": "Pour Timmy, il y a un quelque chose d'excitant à avoir mal. il ne sait pas pourquoi, il est simplement câblPAWN_gender ? é : ée : é(e) différemment.",
+      "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -297,7 +297,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy aime travailler la nuit. il obtient un bonus d'humeur quand il est éveillPAWN_gender ? é : ée : é(e) la nuit (23h-6h) et une perte d'humeur quand il est éveillPAWN_gender ? é : ée : é(e) pendant la journée (11h-18h).\n\nil n'est pas pénalisPAWN_gender ? é : ée : é(e) par l'obscurité.",
+      "description": "Timmy likes to be up during the night, and sleep during the day.\n\nhe gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\nhe doesn't get a mood penalty for being in the dark.",
       "stats": [
 
       ],
@@ -327,7 +327,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a besoin d'une chambre vraiment impressionnante. il est de mauvaise humeur si il ne reçoit pas ce qu'il veut.",
+      "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [
 
       ],
@@ -359,7 +359,7 @@
       "degree": 0
     },
     {
-      "description": "Pour Timmy, il est dégradant d'avoir une chambre moins impressionnante que quelqu'un d'autre. il est de mauvaise humeur si un colon dispose d'une chambre plus impressionnante que la sienne.",
+      "description": "For Timmy, it's degrading to have a less impressive bedroom than someone else. he gets a mood loss if any colonist has a more impressive bedroom.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -391,7 +391,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a abandonné le confort et les plaisirs physiques au profit d'un style de vie simple et pur. il obtient une perte d'humeur si sa chambre est trop impressionnante. il n'aime pas non plus les aliments de luxe et préfère manger cru. il ne juge jamais les autres par leur apparence.",
+      "description": "Timmy has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. he will become unhappy if he has a bedroom that's too impressive. he also dislikes fancy food and prefers to eat raw. he never judges others by their appearance.",
       "stats": [
         "Artistique meditation focus type disabled.",
         "Minimale meditation focus type allowed.",
@@ -429,7 +429,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a une attirance envers les personnes du même sexe que le sien.",
+      "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [
 
       ],
@@ -459,7 +459,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy éprouve de l'attirance aussi bien pour les hommes que pour les femmes.",
+      "description": "Timmy is romantically attracted to both men and women.",
       "stats": [
 
       ],
@@ -489,7 +489,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy n'a aucune attirance sexuelle pour quiconque.",
+      "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [
 
       ],
@@ -519,7 +519,7 @@
       "degree": 0
     },
     {
-      "description": "La voix de Timmy est particulièrement énervante, nasale, et il a tendance à parler en aboyant. C'est d'ailleurs tellement énervant qu'il est rejetPAWN_gender ? é : ée : é(e) par les autres.",
+      "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [
 
       ],
@@ -549,7 +549,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a une respiration vraiment très bruyante et il est tout le temps en sueur. C'est extrêmement énervant au point qu'il est rejetPAWN_gender ? é : ée : é(e) par les autres.",
+      "description": "Timmy breathes heavily all the time, and sweats constantly. People find it creepy.",
       "stats": [
 
       ],
@@ -579,7 +579,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy adore le feu. Pour déstresser, il va occasionnellement allumer des incendies et n'essayera jamais d'en éteindre. Cela arrive plus souvent quand il est de mauvaise humeur.",
+      "description": "Timmy loves fire. he will never extinguish fires. To relieve stress, he will occasionally go on random fire starting sprees. This happens more often if his mood is low.",
       "stats": [
         "Flamme meditation focus type allowed.",
         "Only mental break \"FireStartingSpree\" allowed."
@@ -611,7 +611,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy est faible et peureuPAWN_gender ? x : se : x(se). La moindre douleur l'immobilise.",
+      "description": "Timmy is weak and cowardly. Even a little pain will immobilize him.",
       "stats": [
         "-60% seuil de choc à la douleur",
         "x200% facteur de perte de certitude globale"
@@ -645,7 +645,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy possède une coordination corporelle remarquable. il semble danser autour du danger avec une grâce surnaturelle.",
+      "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
         "+15.0 probabilité d'esquiver en mêlée",
         "x10% Probabilité de déclencher un piège"
@@ -677,7 +677,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a des capacités d'apprentissage exceptionnelles. il comprend les choses bien plus vite que les autres.",
+      "description": "Timmy has a knack for learning. he picks things up much faster than others.",
       "stats": [
         "+75% facteur d'apprentissage global"
       ],
@@ -707,7 +707,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy est peu rapide dans l'apprentissage. il apprend beaucoup plus lentement que les autres.",
+      "description": "Timmy is slow on the uptake. he learns much slower than others.",
       "stats": [
         "-75% facteur d'apprentissage global",
         "x50% facteur de perte de certitude globale"
@@ -739,7 +739,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy n'éprouve pas le besoin de sortir ou de voir la lumière. il ne se sentira jamais enfermPAWN_gender ? é : ée : é(e), peu importe combien de temps il reste à l'intérieur. Et il n'est pas dérangPAWN_gender ? é : ée : é(e) par l'obscurité.",
+      "description": "Timmy has no need to experience the outdoors or light. he will never feel cooped up or get cabin fever, no matter how long he stays inside, and is not bothered by darkness.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -769,7 +769,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy se sent limitPAWN_gender ? é : ée : é(e) par son corps faible. il rêve souvent d'améliorer ses performances grâce à des parties du corps artificielles.",
+      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced by artificial body parts.",
       "stats": [
 
       ],
@@ -799,7 +799,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy croit que le corps humain est limité pour une bonne raison. Pour lui, les parties du corps artificielles sont contraires à l'éthique et dégoûtantes.",
+      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
       "stats": [
 
       ],
@@ -829,7 +829,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy n'aime vraiment pas les hommes et se méfie d'eux.",
+      "description": "Timmy really dislikes and distrusts men.",
       "stats": [
 
       ],
@@ -859,7 +859,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy n'aime vraiment pas les femmes et se méfie d'elles.",
+      "description": "Timmy really dislikes and distrusts women.",
       "stats": [
 
       ],
@@ -889,7 +889,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a fantastic memory for detail. il will learn new skills slightly faster than other people.",
+      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
       "stats": [
         "+25% global learning factor"
       ],
@@ -919,7 +919,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a la peau dure, la chair épaisse et les os solides. il subit bien moins de dommages que les autres pour un même coup. il est extrêmement difficile à tuer.",
+      "description": "Timmy has thick skin, dense flesh, and durable bones. he takes much less damage than other people from the same blows. he is extremely hard to kill.",
       "stats": [
         "x50% multiplicateur de dégâts"
       ],
@@ -949,7 +949,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy se sent aliénPAWN_gender ? é : ée : é(e) et incompriPAWN_gender ? s : se : s(e) par les autres êtres humains. il aura une déficience constante d'humeur, mais aura une chance (50%) d'avoir une inspiration créative après une crise de nerfs.",
+      "description": "Timmy feels alienated and misunderstood by other human beings. he will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "stats": [
         "Morbide meditation focus type allowed."
       ],
@@ -979,7 +979,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy vit pour manger. il a vite faim, et sera parfois submergPAWN_gender ? é : ée : é(e) par l'envie de manger de façon vorace, même quand il n'a pas faim.",
+      "description": "Timmy's life revolves around food. he gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "stats": [
         "Only mental break \"Binging_Food\" allowed.",
         "+4 cuisine"
@@ -1011,7 +1011,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy a besoin de moins de sommeil que la moyenne. Qu'il dorme par terre ou dans un lit, il se restaurera environ deux tiers plus rapidement que la normale.",
+      "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% multiplicateur de taux de repos"
       ],
@@ -1041,7 +1041,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy se retrouve toujours à la traîne derrière le groupe à chaque fois qu'il va quelque part.",
+      "description": "Timmy is always falling behind the group whenever he goes anywhere.",
       "stats": [
         "Frénésie de mouvement inspiration disabled.",
         "-0.20 vitesse de déplacement"
@@ -1073,7 +1073,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy aime arriver rapidement à destination. il marche plus vite que les autres.",
+      "description": "Timmy likes to be where he's going. he walks quicker than most people.",
       "stats": [
         "+0.20 vitesse de déplacement"
       ],
@@ -1103,7 +1103,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy se déplace toujours dans l'urgence, à tel point que les autres n'arrivent généralement pas à suivre le rythme.",
+      "description": "Timmy always moves with a sense of urgency - so much so that others often fail to keep up.",
       "stats": [
         "+0.40 vitesse de déplacement"
       ],
@@ -1133,7 +1133,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy a une fascination intense pour les sources de réjouissance chimique. il en consommera beaucoup pour rester de bonne humeur, et si son addiction à une drogue n'est pas satisfaite, il ira jusqu'à l'overdose à coup de drogues dures. il ignorera toute directive lui disant de ne pas utiliser de drogues.",
+      "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1163,7 +1163,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy a une fascination inhabituelle pour les sources de réjouissance chimique. il va beaucoup en consommer pour rester de bonne humeur, et si son addiction à une drogue n'est pas satisfaite, il ira quelque fois se défoncer à coup de drogues douces, il ignorera toute directive lui disant de ne pas utiliser de drogues.",
+      "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
 
       ],
@@ -1193,7 +1193,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy déteste l'idée de prendre du plaisir avec des produits chimiques, et évite l'alcool.",
+      "description": "Timmy abhors the idea of gaining pleasure from chemicals. he strictly avoids alcohol and recreational drugs.",
       "stats": [
         "Consommation excessive de drogue mental state disabled.",
         "Consommation importante de drogue mental state disabled."
@@ -1225,7 +1225,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy est toujours excitPAWN_gender ? é : ée : é(e) à propos de ce qu'il lui arrive, et ce quasiment tout le temps, peu importe la situation.",
+      "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
       "stats": [
 
       ],
@@ -1255,7 +1255,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy est naturellement optimiste. Il est difficile de lui ôter sa joie de vivre.",
+      "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
       "stats": [
 
       ],
@@ -1285,7 +1285,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy a tendance à regarder la vie du mauvais côté.",
+      "description": "Timmy tends to look on the bad side of life.",
       "stats": [
 
       ],
@@ -1315,7 +1315,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy traine son malheur derrière lui. il a des problèmes quand il s'agit d'être de bonne humeur, même quand tout va bien.",
+      "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [
 
       ],
@@ -1345,7 +1345,7 @@
       "degree": -2
     },
     {
-      "description": "La volonté de Timmy est un roc immuable. il continue d'avancer au travers des obstacles là où d'autres se seraient effondrés depuis longtemps.",
+      "description": "Timmy's will is an iron shield. he keeps going through thick and thin, when others broke down long before.",
       "stats": [
         "-18% seuil de crise de nerfs",
         "x25% facteur de perte de certitude globale"
@@ -1377,7 +1377,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy possède une grande force mentale et ne s'écroulera pas dans des périodes de stress qui détruiraient d'autres personnes.",
+      "description": "Timmy is mentally tough and won't break down under stresses that would crack most people.",
       "stats": [
         "-9% seuil de crise de nerfs",
         "x50% facteur de perte de certitude globale"
@@ -1409,7 +1409,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy a tendance à craquer sous la pression.",
+      "description": "Timmy tends to crack under pressure.",
       "stats": [
         "+8% seuil de crise de nerfs",
         "x200% facteur de perte de certitude globale"
@@ -1441,7 +1441,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy est en alerte en permanence. il craque en premier dans toutes les situations.",
+      "description": "Timmy is on a hair-trigger all the time. he is the first to break in any tough situation.",
       "stats": [
         "+15% seuil de crise de nerfs",
         "x300% facteur de perte de certitude globale"
@@ -1473,7 +1473,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy aime que les choses soient carrées. il travaillera plus dur afin d'atteindre cet objectif, mais ses nerfs pourraient prendre le dessus.",
+      "description": "Timmy likes to have things squared away. he will work harder than most to attain this state of affairs, but his nerves can get the better of him.",
       "stats": [
         "+20% vitesse générale de travail",
         "+8% seuil de crise de nerfs"
@@ -1505,7 +1505,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy a les nerfs à vif à cause de tout ce qui doit être fait. il travaillera extrêmement dur pour accomplir ses tâches, mais ses nerfs peuvent facilement prendre le dessus.",
+      "description": "Timmy feels constantly nervous about everything that has to get done. he will work extremely hard to attain this state of affairs, but his nerves can easily get the better of him.",
       "stats": [
         "+40% vitesse générale de travail",
         "+14% seuil de crise de nerfs"
@@ -1537,7 +1537,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy reste facilement au travail et peut maintenir sa concentration sans effort durant de longue période. il termine ses tâches plus rapidement que les autres.",
+      "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
         "+35% vitesse générale de travail"
       ],
@@ -1567,7 +1567,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy travaille naturellement dur et termine ses tâches plus vite que les autres.",
+      "description": "Timmy is a natural hard worker and will finish tasks faster than most.",
       "stats": [
         "+20% vitesse générale de travail"
       ],
@@ -1597,7 +1597,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy paresse régulièrement.",
+      "description": "Timmy is a little bit lazy.",
       "stats": [
         "-20% vitesse générale de travail"
       ],
@@ -1627,7 +1627,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy adore ne rien faire et déteste tout ce qui touche à la productivité. il se déplace lentement et ne reste que peu de temps sur une tâche.",
+      "description": "Timmy loves idleness and hates anything productive. he moves slowly and rarely stays focused on a task.",
       "stats": [
         "-35% vitesse générale de travail"
       ],
@@ -1657,7 +1657,7 @@
       "degree": -2
     },
     {
-      "description": "L'esprit de Timmy est une vraie antenne psychique. il est extrêmement sensible aux phénomènes psychiques.",
+      "description": "Timmy's mind is like a psychic tuning fork. he is extremely sensitive to psychic phenomena.",
       "stats": [
         "+80% sensibilité psychique"
       ],
@@ -1687,7 +1687,7 @@
       "degree": 2
     },
     {
-      "description": "L'esprit de Timmy est anormalement sensible aux phénomènes psychiques.",
+      "description": "Timmy's mind is unusually sensitive to psychic phenomena.",
       "stats": [
         "+40% sensibilité psychique"
       ],
@@ -1717,7 +1717,7 @@
       "degree": 1
     },
     {
-      "description": "L'esprit de Timmy est psychiquement désaccordé par rapport aux autres. il n'est pas trop affectPAWN_gender ? é : ée : é(e) par les phénomènes psychiques.",
+      "description": "Timmy's mind is psychically out of tune with others. he isn't as affected by psychic phenomena.",
       "stats": [
         "-50% sensibilité psychique"
       ],
@@ -1747,7 +1747,7 @@
       "degree": -1
     },
     {
-      "description": "L'esprit de Timmy fonctionne sur des fréquences psychiques différentes de celles des autres. il n'est tout simplement pas affectPAWN_gender ? é : ée : é(e) par les phénomènes psychiques.",
+      "description": "Timmy's mind works on a psychic frequency different from everyone else. he just isn't affected by psychic phenomena.",
       "stats": [
         "-100% sensibilité psychique"
       ],
@@ -1777,7 +1777,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy est un assez bon tireur, mais il a besoin de plus de temps pour se concentrer sur sa cible.",
+      "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% temps de visée",
         "+5.0 précision de tir"
@@ -1809,7 +1809,7 @@
       "degree": 1
     },
     {
-      "description": "Pan ! Pan ! Pan ! Timmy n'est pas bon tireur, mais il s'en fiche, car les armes c'est génial !",
+      "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% temps de visée",
         "-5.0 précision de tir"
@@ -1841,7 +1841,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy est exceptionnellement jolPAWN_gender ? i : ie : i(e), avec un visage particulièrement exotique et un regard saisissant. Les gens sont naturellement attirés, avant même qu'un seul mot ne soit prononcé.",
+      "description": "Timmy is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to him before he even opens his mouth.",
       "stats": [
         "+2.0 beauté"
       ],
@@ -1871,7 +1871,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy est particulièrement PAWN_gender ? beau : belle : beau/belle, ce qui fait que tout le monde l'aime ici.",
+      "description": "Timmy has a pretty face, which predisposes people to like him.",
       "stats": [
         "+1.0 beauté"
       ],
@@ -1901,7 +1901,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy est bigrement laiPAWN_gender ? d : de : d(e), ce qui a tendance à rendre ses relations sociales plus difficiles.",
+      "description": "Timmy is somewhat ugly. This subtly repels others during social interactions.",
       "stats": [
         "-1.0 beauté"
       ],
@@ -1931,7 +1931,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy est incroyablement laiPAWN_gender ? d : de : d(e). Son visage ressemble à un dessin d'enfant croisé avec un fœtus malformé à l'intérieur d'un bocal et une pièce d'art moderne. Lors des discussions, les gens doivent faire un effort de concentration pour PAWN_gender ? le : la : le/la regarder.",
+      "description": "Timmy is staggeringly ugly. his face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at him while conversing.",
       "stats": [
         "-2.0 beauté"
       ],
@@ -1961,7 +1961,7 @@
       "degree": -2
     },
     {
-      "description": "Timmy a un système immunitaire naturellement très efficace. il gagnera de l'immunité beaucoup plus rapidement que la moyenne des gens, et peut survivre à des maladies qui tueraient les autres.",
+      "description": "Timmy has a naturally powerful immune system. he will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "stats": [
         "+30% vitesse de réponse immunitaire"
       ],
@@ -1991,7 +1991,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy a un terrible système immunitaire. il tombe malade plus souvent que la moyenne, et attrape souvent des maladies qui n'ont frappé personne d'autre dans la colonie.",
+      "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 médecine"
       ],
@@ -2021,7 +2021,7 @@
       "degree": -1
     },
     {
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. il will prefer fishing above other activities.",
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
       "stats": [
 
       ],
@@ -2051,7 +2051,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy spent son entire life among trees and wild animals. It definitely changed son behavior. Timmy won't be upset if il eats raw food without a table. il doesn't care about sleeping on the floor, outside or having damaged clothes, although il prefers to wear at least something.",
+      "description": "Timmy spent his entire life among trees and wild animals. It definitely changed his behavior. Timmy won't be upset if he eats raw food without a table. he doesn't care about sleeping on the floor, outside or having damaged clothes, although he prefers to wear at least something.",
       "stats": [
         "Artistic meditation focus type disabled.",
         "Natural meditation focus type allowed."
@@ -2117,7 +2117,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy's life revolves around fighting. il doesn't have the intelligence to do much else.",
+      "description": "Timmy's life revolves around fighting. he doesn't have the intelligence to do much else.",
       "stats": [
         "+20 shooting",
         "+20 melee"
@@ -2239,7 +2239,7 @@
       "degree": 0
     },
     {
-      "description": "il Has mutated Eyes that can Adapt in Various light Conditions.",
+      "description": "he Has mutated Eyes that can Adapt in Various light Conditions.",
       "stats": [
 
       ],
@@ -2269,7 +2269,7 @@
       "degree": 0
     },
     {
-      "description": "NAME est un robot. En tant que robot, il est un peu plus rapide et pas vraiment sensible aux phénomènes psychiques.",
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
       "stats": [
         "+0.10 move speed",
         "+20% global work speed",
@@ -2307,7 +2307,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy has received the blessing of machine god Zir!\nTimmy is able to easily understand the inner workings of machines and devices, allowing lui to craft and build items of higher quality as well as work faster.",
+      "description": "Timmy has received the blessing of machine god Zir!\nTimmy is able to easily understand the inner workings of machines and devices, allowing him to craft and build items of higher quality as well as work faster.",
       "stats": [
         "+50% mechanoid shredding efficiency",
         "+100% construct success chance",
@@ -2451,7 +2451,7 @@
       "degree": 2
     },
     {
-      "description": "Timmy always saw their body as nothing more than a vessel for their mind. il does not care about the gender, age or looks of a body.",
+      "description": "Timmy always saw their body as nothing more than a vessel for their mind. he does not care about the gender, age or looks of a body.",
       "stats": [
 
       ],
@@ -2549,7 +2549,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy strives for perfection in son work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
         "x65% global work speed"
       ],
@@ -2579,7 +2579,7 @@
       "degree": 0
     },
     {
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and il will try to hide or run as a first priority.",
+      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [
 
       ],
@@ -2827,7 +2827,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has problems taking breaks or resting mid job. il will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [
 
       ],
@@ -2865,7 +2865,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has never felt nausea in son life. Throwing up or food poisoning is foreign to lui.",
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [
 
       ],
@@ -2895,7 +2895,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy can't stand mistreatment of animals. il will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [
 
       ],
@@ -3235,7 +3235,7 @@
       "degree": 0
     },
     {
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for lui.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [
 
       ],
@@ -3297,7 +3297,7 @@
       "degree": 0
     },
     {
-      "description": "No amount of lovin' is enough lovin' for Timmy. il will tend to jump from partner to partner and tumble between the sheets with them frequently.",
+      "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [
 
       ],
@@ -3517,7 +3517,7 @@
       "degree": 0
     },
     {
-      "description": "The sea calls to Timmy. il feels happier just being near the ocean or a deep river.",
+      "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [
 
       ],
@@ -3547,7 +3547,7 @@
       "degree": 0
     },
     {
-      "description": "The mountains call to Timmy. il feels happier just being near a large mountain.",
+      "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [
 
       ],
@@ -3577,7 +3577,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has a twisted secret. il treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
         "+20% surgery success chance factor"
       ],
@@ -3667,7 +3667,7 @@
       "degree": 0
     },
     {
-      "description": "Smokeleaf culture is just part of life for Timmy. il absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -3703,7 +3703,7 @@
       "degree": 0
     },
     {
-      "description": "Alcohol culture is just part of life for Timmy. il absolutely adores booze and would rather die before giving it up.",
+      "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [
 
       ],
@@ -3769,7 +3769,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy is never really asleep or awake. il is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
         "x50% global work speed",
         "x70% move speed"
@@ -3801,7 +3801,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. son bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [
 
       ],
@@ -4031,7 +4031,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and il will likely convince you if given the chance.",
+      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
         "+4 social",
         "+4 crafting",
@@ -4229,20 +4229,20 @@
     {
       "data": {
         "stats": [
-          "+60.00 Poids",
-          "+70% Inflammabilité",
-          "+1750 € Valeur marchande",
-          "+4.60 Vitesse de déplacement",
-          "+16.0C [28.8F] Température minimale de confort",
-          "+26.0C [46.8F] Température maximale de confort",
-          "+75 Quantité de cuir",
-          "+3 Valeur d'honneur"
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C [28.8F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "Un humain de souche, en grande partie épargné par l'ingénierie génétique et globalement peu altéré par la pression de l'évolution sur les planètes extraterrestres.",
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
       "name": "humain",
@@ -4251,18 +4251,18 @@
     {
       "data": {
         "stats": [
-          "+55.00 Poids",
-          "+70% Inflammabilité",
-          "+1900 € Valeur marchande",
-          "+5.60 Vitesse de déplacement",
-          "+130% Vitesse de recherche",
-          "+110% Vitesse générale de travail",
-          "+110% Facteur d'apprentissage global",
-          "+1.2 Probabilité d'esquiver en mêlée",
-          "+50 Quantité de cuir",
-          "+16.0C [28.8F] Température minimale de confort",
-          "+26.0C [46.8F] Température maximale de confort",
-          "+4 Valeur d'honneur"
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$1900 Market value",
+          "+5.60 Move speed",
+          "+130% Research speed",
+          "+110% Global work speed",
+          "+110% Global learning factor",
+          "+1.2 Melee dodge chance",
+          "+50 Leather amount",
+          "+16.0C [28.8F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+4 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -4277,13 +4277,13 @@
     {
       "data": {
         "stats": [
-          "+60.00 Poids",
-          "+30% Inflammabilité",
-          "+3100 € Valeur marchande",
-          "+6.00 Vitesse de déplacement",
-          "+5.0C [9.0F] Température minimale de confort",
-          "+30.0C [54.0F] Température maximale de confort",
-          "+70 Quantité de cuir"
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$3100 Market value",
+          "+6.00 Move speed",
+          "+5.0C [9.0F] Minimum comfortable temperature",
+          "+30.0C [54.0F] Maximum comfortable temperature",
+          "+70 Leather amount"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -4298,13 +4298,13 @@
     {
       "data": {
         "stats": [
-          "+60.00 Poids",
-          "+0% Inflammabilité",
-          "+2500 € Valeur marchande",
-          "+5.00 Vitesse de déplacement",
-          "-15.0C [-27.0F] Température minimale de confort",
-          "+26.0C [46.8F] Température maximale de confort",
-          "+45 Quantité de cuir"
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$2500 Market value",
+          "+5.00 Move speed",
+          "-15.0C [-27.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+45 Leather amount"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -4319,13 +4319,13 @@
     {
       "data": {
         "stats": [
-          "+60.00 Poids",
-          "+0% Inflammabilité",
-          "+2750 € Valeur marchande",
-          "+5.00 Vitesse de déplacement",
-          "-15.0C [-27.0F] Température minimale de confort",
-          "+26.0C [46.8F] Température maximale de confort",
-          "+45 Quantité de cuir"
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$2750 Market value",
+          "+5.00 Move speed",
+          "-15.0C [-27.0F] Minimum comfortable temperature",
+          "+26.0C [46.8F] Maximum comfortable temperature",
+          "+45 Leather amount"
         ],
         "mod": "Unknown",
         "karmaType": null,
@@ -4340,15 +4340,15 @@
     {
       "data": {
         "stats": [
-          "+60.00 Poids",
-          "+0% Inflammabilité",
-          "+0 € Valeur marchande",
-          "+5.60 Vitesse de déplacement",
-          "+0% Sensibilité à la toxicité",
-          "-100.0C [-180.0F] Température minimale de confort",
-          "+250.0C [450.0F] Température maximale de confort",
-          "+0 Quantité de viande",
-          "+200.0% Armure - Protection thermique"
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$0 Market value",
+          "+5.60 Move speed",
+          "+0% Toxic sensitivity",
+          "-100.0C [-180.0F] Minimum comfortable temperature",
+          "+250.0C [450.0F] Maximum comfortable temperature",
+          "+0 Meat amount",
+          "+200.0% Armor - Heat"
         ],
         "mod": "Unknown",
         "karmaType": null,
